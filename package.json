@@ -1,0 +1,21 @@
+{
+    "name": "rocko-theme",
+    "displayName": "rocko-theme",
+    "description": "Color theme inspired by Rocko's Modern Life",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Rocko's Modern Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rocko's Modern Theme-color-theme.json"
+            }
+        ]
+    }
+}
