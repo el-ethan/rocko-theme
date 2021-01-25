@@ -1,0 +1,64 @@
+# Markdown fetures
+
+-   Item one
+-   Item two
+-   Item three
+
+[This](https://en.wikipedia.org/wiki/Rocko%27s_Modern_Life) is a link.
+
+Here is some text with _italics_, **bold** and `monospace` text.
+
+# Programming language examples
+
+```javascript
+import React, {useState} from 'react';
+
+const divStyles = {
+    textAlign: 'center'
+} as React.CSSProperties;
+
+const buttonStyles = {
+    borderRadius: 60,
+    fontSize: '2em',
+    display: 'inline-block',
+    background: '#FFC1DA'
+} as React.CSSProperties;
+
+interface SoapNameGeneratorProps { firstWords:string[], secondWords:string[] }
+
+function SoapNameGenerator(props : SoapNameGeneratorProps) {
+    const [soapName, setSoapName] = useState('❀❀❀❀❀❀❀❀❀❀');
+
+    function getRandomItemFrom(items: Array<string>) {
+        return items[Math.floor(Math.random() * items.length)];
+    }
+
+    function generateSoapName() {
+        const newName = `${getRandomItemFrom(props.firstWords)} ${getRandomItemFrom(props.secondWords)}`;
+        setSoapName(newName);
+    }
+
+    return (
+        <div style={divStyles}>
+            <img src='soap.jpg' alt=""></img>
+            <div>
+            <h1>{soapName}</h1>
+            </div>
+            <button style={buttonStyles} onClick={generateSoapName}>Generate soap name</button>
+        </div>
+    )
+}
+
+export default SoapNameGenerator;
+
+```
+
+```python
+def hello_world(world)
+
+    return 'hello ' + world
+```
+
+```ruby
+
+```
