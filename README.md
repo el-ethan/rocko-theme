@@ -1,13 +1,3 @@
-# README
-## This is the README for your extension "rocko-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Rocko's Modern Theme for Visual Studio Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Rocko's Modern Theme is a dark theme for Visual Studio Code inspired the classic Nickelodeon animated series [Rocko's Modern Life](https://en.wikipedia.org/wiki/Rocko%27s_Modern_Life). It is meant to inspire nostalgia for the 1990s and coding productivity.
