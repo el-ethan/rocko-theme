@@ -1,7 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
 
-class foo 
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/` + 5
