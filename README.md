@@ -8,8 +8,6 @@ Rocko's Modern Theme is a dark theme for Visual Studio Code inspired the classic
 - [ ] Publish
 
 # FIXME:
-- [ ] Highlight in file finder
-- [ ] git diff highlights
 - [ ] Markdown string color
 - [ ] Color for symbol at cursor
-- [ ] Ruby has too much light purple
+- [ ] Notifications bar bg
