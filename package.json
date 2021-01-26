@@ -1,20 +1,29 @@
 {
     "name": "rocko-theme",
-    "displayName": "rocko-theme",
-    "description": "Color theme inspired by Rocko's Modern Life",
+    "displayName": "Rocko's Modern Theme",
+    "description": "A dark theme inspired by Rocko's Modern Life",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
     },
+    "galleryBanner": {
+        "color": "#4D92CBff",
+        "theme": "dark"
+    },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/el-ethan/rocko-theme"
+    },
+    "homepage": "https://github.com/el-ethan/rocko-theme/blob/main/README.md",
     "contributes": {
         "themes": [
             {
                 "label": "Rocko's Modern Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Rocko's Modern Theme-color-theme.json"
+                "path": "./themes/rocko-color-theme.json"
             }
         ]
     }
