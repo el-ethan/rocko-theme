@@ -5,8 +5,8 @@
         "activityBar.background": "#292d3e",
         "activityBar.border": "#292d3e60",
         "activityBar.foreground": "#f9d4b1",
-        "activityBarBadge.background": "#80cbc4",
-        "activityBarBadge.foreground": "#00000030",
+        "activityBarBadge.background": "#4D92CBff",
+        "activityBarBadge.foreground": "#76368Dff",
         "badge.background": "#00000030",
         "badge.foreground": "#676e95",
         "breadcrumb.activeSelectionForeground": "#80cbc4",
@@ -263,7 +263,7 @@
         {
             "scope": ["entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
             "settings": {
-                "foreground": "#1EC8A3ff"
+                "foreground": "#98C8C5ff"
             }
         },
         {
@@ -275,19 +275,19 @@
         {
             "scope": ["source.cpp meta.block variable.other"],
             "settings": {
-                "foreground": "#1EC8A3ff"
+                "foreground": "#98C8C5ff"
             }
         },
         {
             "scope": ["variable.other.constant"],
             "settings": {
-                "foreground": "#1EC8A3ff"
+                "foreground": "#98C8C5ff"
             }
         },
         {
             "scope": ["support.other.variable", "string.other.link"],
             "settings": {
-                "foreground": "#1EC8A3ff"
+                "foreground": "#98C8C5ff"
             }
         },
         {
@@ -505,7 +505,7 @@
                 "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
             ],
             "settings": {
-                "foreground": "#1EC8A3ff"
+                "foreground": "#98C8C5ff"
             }
         },
         {
@@ -559,14 +559,14 @@
         {
             "scope": ["markup.italic"],
             "settings": {
-                "foreground": "#1EC8A3ff",
+                "foreground": "#98C8C5ff",
                 "fontStyle": "italic"
             }
         },
         {
             "scope": ["markup.bold", "markup.bold string"],
             "settings": {
-                "foreground": "#1EC8A3ff",
+                "foreground": "#98C8C5ff",
                 "fontStyle": "bold"
             }
         },
@@ -580,7 +580,7 @@
                 "markup.quote markup.bold string"
             ],
             "settings": {
-                "foreground": "#1EC8A3ff",
+                "foreground": "#98C8C5ff",
                 "fontStyle": "bold"
             }
         },
