@@ -269,7 +269,8 @@
         {
             "scope": ["entity.name.function", "variable.function", "support.function", "keyword.other.special-method"],
             "settings": {
-                "foreground": "#4D92CBff"
+                "foreground": "#4D92CBff",
+                "fontStyle": "bold"
             }
         },
         {
