@@ -6,3 +6,4 @@ Rocko's Modern Theme is a dark theme for Visual Studio Code inspired the classic
 - [ ] Add images to readme
 - [ ] Add icon
 - [ ] Publish
+- [ ] Change Markdown header color
