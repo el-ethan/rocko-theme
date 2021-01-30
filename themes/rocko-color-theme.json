@@ -209,7 +209,7 @@
         {
             "scope": ["constant.other.color"],
             "settings": {
-                "foreground": "#FFFFFF"
+                "foreground": "#1acb9d"
             }
         },
         {
@@ -239,7 +239,7 @@
         {
             "scope": [
                 "keyword.control",
-                "constant.other.color",
+                // "constant.other.color",
                 "punctuation.definition.tag",
                 "punctuation",
                 "punctuation.separator.inheritance.php",
@@ -251,8 +251,8 @@
                 "keyword.other.substitution"
             ],
             "settings": {
-                "foreground": "#89DDFF"
-                // "foreground": "#e05b52"
+                // "foreground": "#89DDFF"
+                "foreground": "#4D92CB"
 
             }
         },
@@ -329,6 +329,23 @@
                 "fontStyle": ""
             }
         },
+        {
+            "scope": ["markup.heading.markdown", "entity.name.section.markdown"],
+            "settings": {
+                "foreground": "#f9d4b1",
+                "fontStyle": "bold"
+            }
+        },
+        // {
+        //     "scope": ["punctuation.definition.heading.markdown"],
+        //     "settings": {
+        //         "foreground": "4D92CB"
+        //     }
+        // },
+        // 	punctuation.definition.heading.markdown
+// heading.2.markdown
+// markup.heading.markdown
+// text.html.markdown
         {
             "scope": [
                 "entity.name",
