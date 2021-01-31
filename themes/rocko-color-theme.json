@@ -200,12 +200,6 @@
                 "foreground": "#C1B8EF"
             }
         },
-        // {
-        //     "scope": ["constant.other.php"],
-        //     "settings": {
-        //         "foreground": "#F6E54D"
-        //     }
-        // },
         {
             "scope": ["constant.other.color"],
             "settings": {
@@ -242,7 +236,6 @@
                 // "constant.other.color",
                 "punctuation.definition.tag",
                 "punctuation",
-                "punctuation.separator.inheritance.php",
                 "punctuation.definition.tag.html",
                 "punctuation.definition.tag.begin.html",
                 "punctuation.definition.tag.end.html",
