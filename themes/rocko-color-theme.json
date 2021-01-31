@@ -297,7 +297,6 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
         "constant.other.reference.link.markdown",
         "token.warn-token",
-        "constant.numeric",
       ],
       "settings": {
         "foreground": "#F6E54D"
@@ -519,6 +518,16 @@
       "settings": {
         "foreground": "#efaf99"
       }
-    }
+    },
+
+    // Washing machine orange https://youtu.be/IemJ5M2xOnM
+    {
+        "scope": [
+            "constant.numeric"
+        ],
+        "settings": {
+          "foreground": "#E78E64"
+        }
+      }
   ]
 }
