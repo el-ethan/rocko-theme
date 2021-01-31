@@ -296,7 +296,8 @@
         "markup.deleted",
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
         "constant.other.reference.link.markdown",
-        "token.warn-token"
+        "token.warn-token",
+        "constant.numeric",
       ],
       "settings": {
         "foreground": "#F6E54D"
@@ -317,7 +318,6 @@
     {
       "scope": [
         "string constant.other.placeholder",
-        "constant.numeric",
         "constant.language",
         "support.constant",
         "constant.character",
