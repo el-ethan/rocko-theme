@@ -3,11 +3,13 @@
     "displayName": "Rocko's Modern Theme",
     "description": "A dark theme inspired by Rocko's Modern Life",
     "version": "0.0.1",
+    "publisher": "elethan",
     "engines": {
         "vscode": "^1.52.0"
     },
+    "keywords": ["nineties", "nostalgia", "nicktoons", "dark theme", "cartoon"],
     "galleryBanner": {
-        "color": "#4D92CBff",
+        "color": "#f9d4b1",
         "theme": "dark"
     },
     "categories": [
@@ -18,6 +20,10 @@
         "url": "https://github.com/el-ethan/rocko-theme"
     },
     "homepage": "https://github.com/el-ethan/rocko-theme/blob/main/README.md",
+    "bugs": {
+        "url": "https://github.com/el-ethan/rocko-theme/issues"
+    },
+    "icon": "images/icon.png",
     "contributes": {
         "themes": [
             {
