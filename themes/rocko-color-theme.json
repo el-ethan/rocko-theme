@@ -328,7 +328,8 @@
         "punctuation.definition.list_item.markdown",
         "markup.fenced_code.block.markdown",
         "markup.inline.raw.string.markdown",
-        "markup.table"
+        "markup.table",
+        "variable.other.ruby"
       ],
       "settings": {
         "foreground": "#C1B8EF"
@@ -405,7 +406,6 @@
         "entity.name.module.js",
         "variable.import.parameter.js",
         "variable.other.class.js",
-        "constant.language.symbol.ruby",
         "token.error-token"
       ],
       "settings": {
@@ -435,7 +435,8 @@
         "markup.heading",
         "markup.inserted.git_gutter",
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
-        "markup.inserted"
+        "markup.inserted",
+        "constant.language.symbol.ruby"
       ],
       "settings": {
         "foreground": "#1acb9d"
