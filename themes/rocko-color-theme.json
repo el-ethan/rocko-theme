@@ -310,7 +310,7 @@
         {
             "scope": ["variable.parameter.function.language.special", "variable.parameter"],
             "settings": {
-                "foreground": "#e05b52",
+                "foreground": "#F6E54D",
                 "fontStyle": "italic"
             }
         },
@@ -351,14 +351,10 @@
                 "entity.name",
                 "support.type",
                 "support.class",
-                "support.orther.namespace.use.php",
-                "meta.use.php",
-                "support.other.namespace.php",
-                "markup.changed.git_gutter",
                 "support.type.sys-types"
             ],
             "settings": {
-                "foreground": "#F6E54D"
+                "foreground": "#e05b52"
             }
         },
         {
@@ -575,7 +571,7 @@
                 "markup.heading.markdown punctuation.definition.heading.markdown"
             ],
             "settings": {
-                "foreground": "#1acb9d"
+                "foreground": "#4D92CB"
             }
         },
         {
@@ -704,6 +700,17 @@
                 "foreground": "#B267E6"
             }
         },
+
+        // CSS + SASS
+
+        {
+            "scope": ["support.type.property-name.css"],
+            "settings": {
+                "foreground": "#f9d4b1"
+            }
+        },        
+
+        // Ruby
         {
             "scope": ["variable.other.ruby", "source.ruby"],
             "settings": {
@@ -715,6 +722,12 @@
             "settings": {
                 "foreground": "#e05b52"
             }
-        }
+        },
+        {
+            "scope": ["keyword.control.def.ruby"],
+            "settings": {
+                "foreground": "#f9d4b1"
+            }
+        },
     ]
 }
