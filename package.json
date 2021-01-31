@@ -2,7 +2,7 @@
     "name": "rocko-theme",
     "displayName": "Rocko's Modern Theme",
     "description": "A dark theme inspired by Rocko's Modern Life",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "publisher": "elethan",
     "engines": {
         "vscode": "^1.52.0"
@@ -10,7 +10,7 @@
     "keywords": ["nineties", "nostalgia", "nicktoons", "dark theme", "cartoon"],
     "galleryBanner": {
         "color": "#f9d4b1",
-        "theme": "dark"
+        "theme": "light"
     },
     "categories": [
         "Themes"
