@@ -2,7 +2,7 @@
     "name": "rocko-theme",
     "displayName": "Rocko's Modern Theme",
     "description": "A dark theme inspired by Rocko's Modern Life",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "publisher": "elethan",
     "engines": {
         "vscode": "^1.52.0"
