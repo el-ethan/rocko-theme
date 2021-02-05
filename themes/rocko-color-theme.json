@@ -105,7 +105,7 @@
     "notifications.background": "#292d3e",
     "notifications.foreground": "#C1B8EF",
     "panel.background": "#292d3e",
-    "panel.border": "#292d3e60",
+    "panel.border": "#f9d4b120",
     "panelTitle.activeBorder": "#98C8C5",
     "panelTitle.activeForeground": "#ffffff",
     "panelTitle.inactiveForeground": "#C1B8EF",
@@ -136,7 +136,7 @@
     "settings.textInputBackground": "#292d3e",
     "settings.textInputForeground": "#C1B8EF",
     "sideBar.background": "#292d3e",
-    "sideBar.border": "#292d3e60",
+    "sideBar.border": "#f9d4b120",
     "sideBar.foreground": "#676e95",
     "sideBarSectionHeader.background": "#292d3e",
     "sideBarSectionHeader.border": "#292d3e60",
@@ -260,7 +260,8 @@
         "markdown.heading",
         "token.info-token",
         "markup.heading | markup.heading entity.name",
-        "markup.heading.markdown punctuation.definition.heading.markdown"
+        "markup.heading.markdown punctuation.definition.heading.markdown",
+        "keyword.other.DML.sql"
       ],
       "settings": {
         "foreground": "#4D92CB"
@@ -293,7 +294,6 @@
     {
       "scope": [
         "entity.other.attribute-name.class",
-        "markup.deleted",
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
         "constant.other.reference.link.markdown",
         "token.warn-token",
@@ -406,7 +406,8 @@
         "entity.name.module.js",
         "variable.import.parameter.js",
         "variable.other.class.js",
-        "token.error-token"
+        "token.error-token",
+        "markup.deleted",
       ],
       "settings": {
         "foreground": "#e05b52"
