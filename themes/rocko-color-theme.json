@@ -362,6 +362,7 @@
         "source.stylus support.type.property-name",
         "source.postcss support.type.property-name",
         "variable.other.readwrite",
+        "markup.inline.raw.string.markdown"
       ],
       "settings": {
         "foreground": "#98C8C5"
