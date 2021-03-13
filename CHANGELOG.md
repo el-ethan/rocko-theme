@@ -1,6 +1,10 @@
 # Change Log
 ## [Unreleased]
 
+## [0.0.15] - 2021-02-04
+- Add sash hover color
+- Update `list.focusBackground` to `quickInput.list.focusBackground` as suggested by VS Code team
+
 ## [0.0.6] - 2021-02-04
 - Improve syntax highlighting for SQL
 - Improve menu colors on Windows
