@@ -1,6 +1,9 @@
 # Change Log
 ## [Unreleased]
 
+## [0.0.16] - 2021-05-17
+- Fix unreadable "view problem" background
+
 ## [0.0.15] - 2021-02-04
 - Add sash hover color
 - Update `list.focusBackground` to `quickInput.list.focusBackground` as suggested by VS Code team
