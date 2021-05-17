@@ -46,7 +46,7 @@
     "editorLineNumber.activeForeground": "#676e95",
     "editorLineNumber.foreground": "#3a3f58",
     "editorLink.activeForeground": "#C1B8EF",
-    "editorMarkerNavigation.background": "#C1B8EF",
+    "editorMarkerNavigation.background": "#3a3f58",
     "editorOverviewRuler.border": "#292d3e",
     "editorOverviewRuler.errorForeground": "#e05b5240",
     "editorOverviewRuler.findMatchForeground": "#98C8C5",
